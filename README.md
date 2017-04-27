@@ -23,4 +23,4 @@ UserPointHistory
 - Many to Many 관계를 이용할 것
 
 ### 제출 방법
-github이나 bitbucket private 저장소를 활용하고 jw.lee@specupad.com에 읽기 권한을 부여한 뒤에 이메일로 회신할 것
+github이나 bitbucket private 저장소를 활용하고 jw.lee@specupad.com에 읽기 권한을 부여한 뒤에 이메일로 회신하여주시기 바랍니다.
