@@ -24,6 +24,7 @@ UserPointHistory
 
 ### 문제 2. 다음 데이터에 대해 각 컨텐츠별 수익 총액을 구하는 SQL문을 작성하고 Answer2.md 파일에 기록해주세요.
 Table: Content
+
 |id|subject|
 |---|---|
 |7011|대기업 취업완성 3개월 종합반|
@@ -31,6 +32,7 @@ Table: Content
 |7013|대기업 취업완성 6개월 종합반|
 
 Table: UserContent
+
 |id|username|real_name|content_id|profit|
 |---|---|---|---|---|
 |1157421|user1|김유신|7011|115000|
