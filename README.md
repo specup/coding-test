@@ -22,7 +22,7 @@ UserPointHistory
 - delta: 포인트 변화량 (추가, 삭제 량) (ex: -10, +100)
 - Many to Many 관계를 이용할 것
 
-### 문제 2. 다음 데이터에 대해 컨텐츠 type별 수익 총액을 구하는 SQL문을 작성하고 Answer2.md 파일에 기록해주세요.
+### 문제 2. 다음 데이터에 대해 컨텐츠 type별 수익 총액을 구하는 SQL문을 작성하고 Answer2.txt 파일에 기록해주세요.
 Table: Content
 
 |id|subject|type|
