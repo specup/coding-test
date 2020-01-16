@@ -46,4 +46,4 @@ Table: UserContent
 
 
 #### 제출 방법
-github이나 bitbucket private 저장소를 활용하고 jw.lee@specupad.com에 읽기 권한을 부여한 뒤에 이메일로 회신하여주시기 바랍니다.
+github이나 bitbucket private 저장소를 활용하고 mc.park@specupad.com에 읽기 권한을 부여한 뒤에 이메일로 회신하여주시기 바랍니다.
